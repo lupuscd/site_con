@@ -1,3 +1,3 @@
 # Site connectivity checker
 
-Check if a url is up and running
+Check if a url is up and running.
